@@ -1,0 +1,11 @@
+⌨️ EXACT Keyboard RGB Colors (6-key rainbow gradient):
+Based on your keyboard photo showing the cyan → magenta gradient:
+KeyHex CodeColor NameKey 1#00D9FFBright Cyan (leftmost)Key 2#00B3FFCyan-Blue transitionKey 3#0080FFMedium BlueKey 4#4D5FFFBlue-Purple transitionKey 5#9D5FFFPurpleKey 6#FF00FFMagenta (rightmost)
+RGB Values (for keyboards that need RGB format):
+
+Key 1: R=0, G=217, B=255
+Key 2: R=0, G=179, B=255
+Key 3: R=0, G=128, B=255
+Key 4: R=77, G=95, B=255
+Key 5: R=157, G=95, B=255
+Key 6: R=255, G=0, B=255
